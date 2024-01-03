@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eveZ9usa0Eel7qZUvXrTGCYssfpV6ObIYIgyvP6XqiA=",
+  "Source": "CI_CD_WebAPI",
+  "BasePath": "_content/CI_CD_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
